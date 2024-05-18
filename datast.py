@@ -16,4 +16,7 @@ class MyArray:
 arr = MyArray()
 arr.push(1) 
 arr.push(2)
-print (arr.pop())                   
+arr.push("one")
+arr.push("njoki")
+arr.push("mafi")
+print(arr.pop())                   
